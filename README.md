@@ -25,7 +25,6 @@ Key features include:
     ├── train_production.py       # SCRIPT 3: Final Model Training (100% Data)
     ├── predict_future.py         # SCRIPT 4: Forecasting
     ├── paper_config.py           # Central config file
-    ├── test_system.py            # Environment & model verification
     └── requirements.txt          # Python dependencies
 
 ------------------------------------------------------------
@@ -38,9 +37,6 @@ Install dependencies:
 
 (Requires: torch, numpy, pandas, yfinance, pandas_ta, matplotlib, scikit-learn)
 
-Verify installation:
-
-    python test_system.py
 
 ------------------------------------------------------------
 
